@@ -13,9 +13,9 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/AnkitRaj5)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/pankaj7464)**
 
-- 📫 How to reach me **ankitraj5ar@gmail.com**
+- 📫 How to reach me **pankaj.kumar17814@marwadieducation.edu.in**
 
 - ⚡ Fun fact **I play games.**
 
@@ -34,8 +34,8 @@
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/AnkitRaj5/github-readme-stats"><img alt="Ankit Raj Github Stats" src="https://github-readme-stats.vercel.app/api?username=AnkitRaj5&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/AnkitRaj5/github-readme-stats"><img alt="Ankit Raj Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnkitRaj5&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/pankaj7464/github-readme-stats"><img alt="Ankit Raj Github Stats" src="https://github-readme-stats.vercel.app/api?username=pankaj7464&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/pankaj7464/github-readme-stats"><img alt="Pankaj kumar Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pankaj7464&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
  
 
@@ -43,7 +43,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/AnkitRaj5/github-readme-activity-graph"><img alt="Ankit Raj Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AnkitRaj5&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/pankaj7464/github-readme-activity-graph"><img alt="pankaj7464 Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=pankaj7464&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
