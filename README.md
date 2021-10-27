@@ -51,7 +51,7 @@
 ## Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/ankitraj5ar/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.linkedin.com/in/pankaj-kumar-31059920b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BESIqceVYTZyhbxL8TOKqUw%3D%3D" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/AnkitRaj5ar" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/ankit_raj_5/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href="https://stackoverflow.com/users/14895475/ankit-raj" target="_blank"><img src="https://image.flaticon.com/icons/png/512/2111/2111628.png" alt="https://stackoverflow.com/users/14895475/ankit-raj" height="45" width="50" /></a>
