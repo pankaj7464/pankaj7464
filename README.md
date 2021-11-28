@@ -7,9 +7,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Dog Lovers](https://ankitraj5ar.github.io/)**
+- 🔭 I’m currently working on **[ backend for E-Commerce web app `](https://7464.github.io/)**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+- 🌱 I’m currently learning ****Blockchain Technology.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **pankaj.kumar17814@marwadieducation.edu.in**
 
-- ⚡ Fun fact **I play games.**
+- ⚡ Fun fact **Hard Coding.**
 
 ## 🚀 Languages and Tools:
 
@@ -26,7 +26,7 @@
 </p>
 
 <p align="center">
-    <a href="https://github.com/ankitraj5/github-readme-streak-stats">
+    <a href="https://github.com/pankaj7464/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Ankit Raj's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AnkitRaj5&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
