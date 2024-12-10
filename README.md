@@ -11,7 +11,7 @@
   <a href="https://twitter.com/pankaj7464" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Twitter Logo" />
   </a>
-  <a href="https://www.instagram.com/pankaj7464/" target="_blank">
+  <a href="https://www.instagram.com/pankaj_kushwaha21/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Instagram Logo" />
   </a>
   <a href="https://www.facebook.com/pankaj7464" target="_blank">
