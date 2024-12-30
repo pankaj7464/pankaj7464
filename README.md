@@ -1,4 +1,4 @@
-# Hi there, I'm Nikhil 👋
+# Hi there, I'm Pankaj  👋
 
 ## 📈 GitHub Stats
 ![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=pankaj7464&show_icons=true&theme=graywhite)
