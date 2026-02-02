@@ -9,7 +9,7 @@
 
 ## 📫 How to reach me
 - Portfolio: [Pankaj Kumar](https://pankajkumar.me/)
-- LinkedIn: [Nikhil Nigam](https://www.linkedin.com/in/pankaj-fullstackdeveloper/)
+- LinkedIn: [Pankaj Kumar](https://www.linkedin.com/in/pankaj-fullstackdeveloper/)
 - Twitter: [@pankaj7464](https://slyn.xyz/x)
 - Email: pankajkumarnikk@gmail.com
 
